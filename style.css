@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0; /* Warna latar belakang halaman */
+  color: #333; /* Warna teks utama */
+}
+
+.container {
+  text-align: center;
+  margin: 50px;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc; /* Garis tepi input */
+  border-radius: 5px; /* Sudut bulat input */
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #4CAF50; /* Warna latar belakang tombol */
+  color: white; /* Warna teks tombol */
+  border: none; /* Menghapus garis tepi tombol */
+  border-radius: 5px; /* Sudut bulat tombol */
+}
+
+button:hover {
+  background-color: #45a049; /* Warna latar belakang tombol saat dihover */
+}
